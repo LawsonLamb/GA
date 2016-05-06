@@ -1,0 +1,5 @@
+/Users/ItBNinja/Projects/GA/GA/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ItBNinja/Projects/GA/GA/bin/Debug/GA.exe.mdb
+/Users/ItBNinja/Projects/GA/GA/bin/Debug/GA.exe
+/Users/ItBNinja/Projects/GA/GA/obj/x86/Debug/GA.exe
+/Users/ItBNinja/Projects/GA/GA/obj/x86/Debug/GA.exe.mdb
